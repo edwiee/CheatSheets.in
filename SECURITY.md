@@ -1,7 +1,7 @@
 # CheatSheets.in Security Policies and Procedures <!-- omit in toc -->
 
 This document outlines security procedures and general policies for the
-GitHub Readme Stats project.
+CheatSheets.in project.
 
 - [Reporting a Vulnerability](#reporting-a-vulnerability)
 
